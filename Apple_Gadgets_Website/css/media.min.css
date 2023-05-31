@@ -1,0 +1,163 @@
+@media(max-width: 575.98px) {
+    .header_main .container {
+        padding:0 16px
+    }
+
+    .logo_container,.wishlist_cart {
+        height: 40px
+    }
+
+    .header_search_form_container {
+        height: 35px
+    }
+
+    .menu_trigger_container {
+        padding-left: 22px
+    }
+
+    .custom_dropdown {
+        height: 34px
+    }
+
+    .custom_dropdown_placeholder {
+        text-align: left !important;
+        line-height: 33px
+    }
+
+    .header_search_button {
+        width: 64px;
+        height: 35px
+    }
+
+    .carousel-item {
+        padding: 250px 0
+    }
+
+    .top-product-category,.product-section1 {
+        padding-top: 0
+    }
+
+    .top-product-category,.product-section1 {
+        padding-top: 20px;
+        padding-bottom: 16px
+    }
+
+    .title-heading {
+        margin-bottom: 16px
+    }
+
+    .title-heading h1 {
+        margin-bottom: 10px;
+        font-size: 20px
+    }
+
+    .product-text h4 {
+        font-size: 12px
+    }
+
+    .product-defaul-title h1 {
+        font-size: 20px
+    }
+
+    .my-tab li {
+        margin: 0 8px 5px
+    }
+
+    .my-tab .nav-link {
+        font-size: 12px
+    }
+
+    .product-img {
+        padding: 16px
+    }
+
+    .product-items {
+        padding: 10px 6px
+    }
+
+    .addto-card button {
+        padding: 5px 7px;
+        font-size: 8px
+    }
+
+    .buy-now button {
+        font-size: 8px;
+        padding: 5px 7px
+    }
+
+    .p-subtitle-price h5 {
+        margin: 14px 0;
+        font-size: 13px
+    }
+
+    .product-items:hover .p-middle-img img {
+        transform: scale(1.1)
+    }
+
+    .our-branding-icon {
+        padding: 0
+    }
+
+    .brand-item {
+        margin: 5px
+    }
+
+    .footer-widget h2 {
+        margin-top: 20px;
+        margin-bottom: 5px
+    }
+
+    .register-right {
+        margin-top: 40px;
+        padding: 0 6px
+    }
+
+    .similar-style {
+        margin-right: 2px;
+        padding: 10px 31px
+    }
+
+    .my-d-navtab .nav-item .my-dnav-link {
+        margin-bottom: 15px
+    }
+
+    .des-highlight-text ul {
+        padding-left: 30px
+    }
+}
+
+@media(min-width: 768px) and (max-width:991.98px) {
+    .header_main .container {
+        padding:0
+    }
+
+    .menu_trigger_container {
+        padding: 0
+    }
+
+    .logo_container,.wishlist_cart {
+        height: 70px
+    }
+
+    .header_search_form_container {
+        height: 35px
+    }
+
+    .custom_dropdown {
+        height: 34px
+    }
+
+    .custom_dropdown_placeholder {
+        text-align: left !important;
+        line-height: 33px
+    }
+
+    .header_search_button {
+        width: 64px;
+        height: 35px
+    }
+
+    .carousel-item {
+        padding: 300px 0
+    }
+}
